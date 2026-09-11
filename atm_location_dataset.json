@@ -1,0 +1,52 @@
+[
+  {
+    "atm_id": "ATM001",
+    "city": "Hyderabad",
+    "area": "Kukatpally"
+  },
+  {
+    "atm_id": "ATM002",
+    "city": "Bengaluru",
+    "area": "Yeshwanthpur"
+  },
+  {
+    "atm_id": "ATM003",
+    "city": "Hyderabad",
+    "area": "Gachibowli"
+  },
+  {
+    "atm_id": "ATM004",
+    "city": "Bengaluru",
+    "area": "Electronic City"
+  },
+  {
+    "atm_id": "ATM005",
+    "city": "Mysuru",
+    "area": "Vijayanagar"
+  },
+  {
+    "atm_id": "ATM006",
+    "city": "Chennai",
+    "area": "Velachery"
+  },
+  {
+    "atm_id": "ATM007",
+    "city": "Pune",
+    "area": "Hinjewadi"
+  },
+  {
+    "atm_id": "ATM008",
+    "city": "Mumbai",
+    "area": "Andheri"
+  },
+  {
+    "atm_id": "ATM009",
+    "city": "Kolkata",
+    "area": "Park Street"
+  },
+  {
+    "atm_id": "ATM010",
+    "city": "Hubballi",
+    "area": "Vidyanagar"
+  }
+]
